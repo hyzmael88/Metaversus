@@ -1,0 +1,5 @@
+Hasta el final
+agregue el archivo _app.js en pages 
+copie y pegue de app pague a index en pages
+cambie el appDir en next.config a false
+en package.json agregare en el build && next export
